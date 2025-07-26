@@ -41,5 +41,5 @@ pip install -r requirements.txt
 
 ## 🌐 Live Application
 
-🚀 [Click here to view the deployed Fraud Detection App](https://insuranceclaimfrauddetectionbyankitknath.streamlit.app/)
+🚀 https://insuranceclaimfrauddetectionbyankitknath.streamlit.app/
 
