@@ -38,3 +38,8 @@ cd auto-insurance-fraud
   
 # Install dependencies
 pip install -r requirements.txt
+
+## 🌐 Live Application
+
+🚀 [Click here to view the deployed Fraud Detection App](https://insuranceclaimfrauddetectionbyankitknath.streamlit.app/)
+
